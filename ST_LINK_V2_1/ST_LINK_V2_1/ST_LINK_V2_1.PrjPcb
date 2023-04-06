@@ -82,6 +82,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AKHMPUJW
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for ST_LINK_V2_1\Design Rule Check - ST_LINK_V2_1.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
